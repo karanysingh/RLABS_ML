@@ -12,3 +12,4 @@ These labs were the part of the ML course I took at college. All the labs are su
 8) SVM(support vector machines) and parameter tuning on covid_19_data
 9) Decison trees, Random Forest, Bagging on wage Dataset
 10) splines on Wage dataset
+11) `Assignment` Character Classifer of first and last alphabet of your name `K` and `N` in my case.
